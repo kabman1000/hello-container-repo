@@ -1,3 +1,2 @@
 # hello-container-repo
-cloud native continuous integration and deployment demo
-# hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/kabman1000/hello-container-repo/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/kabman1000/hello-container-repo/tree/master)
